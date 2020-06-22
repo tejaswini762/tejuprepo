@@ -1,0 +1,2 @@
+# tejuprepo
+to  manage code
